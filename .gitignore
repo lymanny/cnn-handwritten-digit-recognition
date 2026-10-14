@@ -1,0 +1,19 @@
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+
+# PyCharm
+.idea/
+
+# MNIST Dataset
+data/
+
+# Trained Model
+*.pth
+
+# Environment Variables
+.env
