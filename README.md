@@ -74,4 +74,3 @@ Interactive Handwritten Digit Recognition
 - [PyTorch — Neural Network Module](https://docs.pytorch.org/docs/stable/nn.html)
 - [Torchvision — MNIST Dataset](https://docs.pytorch.org/vision/stable/generated/torchvision.datasets.MNIST.html)
 - [PyTorch — Saving and Loading Models](https://docs.pytorch.org/tutorials/beginner/basics/saveloadrun_tutorial.html)
-- [MNIST Handwritten Digit Database](https://yann.lecun.com/exdb/mnist/)
